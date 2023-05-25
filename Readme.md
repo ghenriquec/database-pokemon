@@ -45,14 +45,14 @@ O arquivo `.sql` fornecido neste repositório também contém exemplos de consul
 Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue neste repositório. Ficaremos felizes em revisar e discutir suas contribuições.
 
 ## Autores
-- [Adriel ]
-- [Ana Luiza Santos]
-- [Arthur Henrique Oliveira]
-- [Bruna Perez]
-- [Emmannuel Viglioni]
-- [Guilherme Henrique Coelho]
-- [Gabriel Thomopoulos]
-- [Joao Victor Teixeira]
+- Adriel
+- Ana Luiza Santos
+- Arthur Henrique Oliveira
+- Bruna Perez
+- Emmannuel Viglioni
+- Guilherme Henrique Coelho
+- Gabriel Thomopoulos
+- Joao Victor Teixeira
 
 ## Licença
 
