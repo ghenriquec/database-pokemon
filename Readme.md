@@ -1,6 +1,10 @@
-# Pokédex Database
+# Pokédex Database 🇧🇷
+
+[Português](README.md) | [English](README_EN.md)
 
 Este repositório contém o projeto de modelagem de banco de dados para a Pokédex, uma enciclopédia virtual com informações sobre espécies de Pokémons. O objetivo deste projeto é fornecer uma estrutura de banco de dados eficiente para armazenar e gerenciar as informações dos Pokémons, incluindo suas características, categorias, espécies, tipos e habilidades.
+
+[![English](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojione/276/flag-united-states_1f1fa-1f1f8.png)](README_EN.md) [Readme in English](README_EN.md)
 
 ## Estrutura do Banco de Dados
 
@@ -42,7 +46,9 @@ O arquivo `.sql` fornecido neste repositório também contém exemplos de consul
 
 ## Contribuição
 
-Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue neste repositório. Ficaremos felizes em revisar e discutir suas contribuições.
+Se
+
+ você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue neste repositório. Ficaremos felizes em revisar e discutir suas contribuições.
 
 ## Autores
 - Adriel
@@ -63,3 +69,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade
 Gostaríamos de agradecer à professora Aline por sua orientação e suporte durante o desenvolvimento deste projeto. Sua contribuição foi fundamental para o sucesso do trabalho.
 
 **Pokémon** é uma marca registrada da The Pokémon Company. Este projeto é apenas uma implementação do banco de dados e não possui vínculo oficial com a The Pokémon Company.
+
