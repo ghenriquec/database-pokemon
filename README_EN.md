@@ -1,4 +1,4 @@
-# Pokédex Database
+# Pokédex Database 🇺🇸
 
 [Português](README.md) | [English](README_EN.md)
 
