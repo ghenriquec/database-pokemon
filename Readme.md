@@ -4,8 +4,6 @@
 
 Este repositório contém o projeto de modelagem de banco de dados para a Pokédex, uma enciclopédia virtual com informações sobre espécies de Pokémons. O objetivo deste projeto é fornecer uma estrutura de banco de dados eficiente para armazenar e gerenciar as informações dos Pokémons, incluindo suas características, categorias, espécies, tipos e habilidades.
 
-[![English](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojione/276/flag-united-states_1f1fa-1f1f8.png)](README_EN.md) [Readme in English](README_EN.md)
-
 ## Estrutura do Banco de Dados
 
 O banco de dados da Pokédex foi modelado seguindo a abordagem relacional. Ele consiste em várias tabelas inter-relacionadas para armazenar as informações dos Pokémons. Abaixo está uma visão geral das principais tabelas do banco de dados:
