@@ -1,5 +1,7 @@
 # Pokédex Database
 
+[Português](README.md) | [English](README_EN.md)
+
 This repository contains the database modeling project for Pokédex, a virtual encyclopedia with information about Pokémon species. The aim of this project is to provide an efficient database structure to store and manage Pokémon information, including their characteristics, categories, species, types, and abilities.
 
 ## Database Structure
