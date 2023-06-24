@@ -44,12 +44,9 @@ O arquivo `.sql` fornecido neste repositório também contém exemplos de consul
 
 ## Contribuição
 
-Se
-
- você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue neste repositório. Ficaremos felizes em revisar e discutir suas contribuições.
+Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue neste repositório. Ficaremos felizes em revisar e discutir suas contribuições.
 
 ## Autores
-- Adriel
 - Ana Luiza Santos
 - Arthur Henrique Oliveira
 - Bruna Perez
